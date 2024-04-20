@@ -15,8 +15,8 @@ You use your 3rd-eye (qb-target default) to interact with a player to open the U
 * In your `server.cfg` add `ensure go_cash`
 
 # Dependencies
-[esx] (https://github.com/DogsGoBark/es_extended)\
-[legacy] (https://github.com/esx-framework/esx-legacy)\
+[esx](https://github.com/DogsGoBark/es_extended)\
+[legacy](https://github.com/esx-framework/esx-legacy)\
 [qb-core](https://github.com/qbcore-framework/qb-core)\
 [ox_lib](https://github.com/overextended/ox_lib)
 
