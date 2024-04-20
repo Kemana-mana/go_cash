@@ -9,6 +9,19 @@ version '1.0'
 
 lua54 'yes'
 
-client_script 'client.lua'
-server_script 'server.lua'
-shared_script 'config.lua'
+
+shared_scripts {
+    '@ox_lib/init.lua',
+    'config.lua'
+}
+
+client_scripts {
+	'frame.lua',
+    'client.lua',
+}
+server_scripts {
+    '@mysql-async/lib/MySQL.lua',
+	'@oxmysql/lib/MySQL.lua',
+	'frame.lua',
+    'server.lua',
+}

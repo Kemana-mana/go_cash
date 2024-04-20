@@ -1,5 +1,11 @@
-local QBCore = exports['qb-core']:GetCoreObject()
+ESX = nil
+QBCore = nil
 local TestTarget = Config.TestTarget
+
+Citizen.CreateThread(function()
+    frameworkObject = GetFrameworkObject() 
+end)
+
 
 local function moneyMenu()
     if Config.Menu == 'ox' then
