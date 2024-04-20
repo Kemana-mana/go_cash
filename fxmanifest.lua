@@ -1,9 +1,9 @@
 fx_version "cerulean"
 game "gta5"
 
-description "Razed's Give Cash"
+description "go Cash"
 
-author 'planeklm'
+author 'go'
 
 version '1.0'
 
