@@ -1,5 +1,3 @@
-![Razed Cash Give Banner](https://github.com/planeklm/go_cash/assets/91488137/993642e8-5f61-447a-98b7-5ecace33a639)
-
 **Hello FiveM community!👋**\
 We have created a cash give script for qbcore framework which includes a message system, its just a simple drag and drop.
 You use your 3rd-eye (qb-target default) to interact with a player to open the UI.
